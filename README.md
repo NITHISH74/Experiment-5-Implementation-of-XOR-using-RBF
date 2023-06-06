@@ -1,4 +1,4 @@
-# Experiment-5-Implementation-of-XOR-using-RBF
+# EX05---Implementation-of-XOR-using-RBF
 
 ## AIM:
   To classify the Binary input patterns of XOR data  by implementing Radial Basis Function Neural Networks.
